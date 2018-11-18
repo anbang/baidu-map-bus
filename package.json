@@ -1,0 +1,16 @@
+{
+  "name": "baidu-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^3.0.6",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
